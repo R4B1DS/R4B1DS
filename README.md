@@ -20,10 +20,8 @@
 </p>
 
 ```bash
-$ whoami
-nicolas.ocampos
 
-$ cat profile.txt
+nicolas.ocampos
 role    : Cybersecurity Student (Cyber Defense, expected Mar 2027)
 focus   : SOC | Blue Team | SIEM | Incident Response | GRC
 gpa     : 9.87/10
