@@ -54,13 +54,11 @@ I'm currently looking for **entry-level roles in IT and cybersecurity** (SOC Ana
 ![Cisco](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Security_and_Connectivity_Support-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-## 📈 GitHub Stats
+## 🚧 Currently Working On
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=R4B1DS&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4B1DS&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+- Building SOC investigation labs (Splunk, Windows Event Logs, SSH brute force)
+- Completing the Santander Cybersecurity Bootcamp
+- Finishing my degree in Cyber Defense (expected March 2027)
 ---
 
 ---
