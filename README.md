@@ -29,6 +29,7 @@ focus   : SOC | Blue Team | SIEM | Incident Response | GRC
 gpa     : 9.87/10
 status  : Open to work (entry-level)
 ```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r4b1ds&theme=default" alt="r4b1ds" /></p>
 
 ---
 
@@ -98,7 +99,5 @@ I'm currently looking for **entry-level roles in IT and cybersecurity** (SOC Ana
 <p align="center">
   <i>"Security is a process, not a product."</i>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r4b1ds&theme=default" alt="r4b1ds" /></p>
 
 
