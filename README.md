@@ -77,6 +77,18 @@ I'm currently looking for **entry-level roles in IT and cybersecurity** (SOC Ana
 ![Harvard](https://img.shields.io/badge/Harvard-CS50_Cybersecurity-A51C30?style=for-the-badge)
 [![Cisco](https://img.shields.io/badge/Cisco-Greenhouse_Gas_Accounting_for_IT-6CC24A?style=for-the-badge&logo=cisco&logoColor=white)](LINK-DO-CREDLY)
 
+### 📋 GRC & Compliance
+
+![LGPD](https://img.shields.io/badge/LGPD-Data_Protection_Law-2E7D32?style=for-the-badge)
+
+### ⚙️ Process Improvement & Project Management
+
+![Lean Six Sigma](https://img.shields.io/badge/Kennesaw_State-Lean_Six_Sigma_Yellow_Belt-0B2265?style=for-the-badge)
+![Six Sigma](https://img.shields.io/badge/Kennesaw_State-Six_Sigma_and_the_Organization_Advanced-0B2265?style=for-the-badge)
+![Lean Manufacturing](https://img.shields.io/badge/Course-Lean_Manufacturing-546E7A?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Method-Kanban-546E7A?style=for-the-badge)
+![Microsoft Project](https://img.shields.io/badge/Microsoft-Project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 🔗 [Verify all my credentials on Credly](https://www.credly.com/users/nicolas-ocampos/badges/credly)
 
 ## 🎓 Education
