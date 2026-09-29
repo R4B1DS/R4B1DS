@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nicolas-borges-512411402">
+  <a href="https://www.linkedin.com/in/nicolas-borges-ocampos/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -42,10 +42,10 @@ I'm currently looking for **entry-level roles in IT and cybersecurity** (SOC Ana
 
 | Lab | Description |
 |---|---|
-| [SOC Lab 01: SSH Brute Force](https://github.com/YOUR-USERNAME/soc-lab-01-ssh-bruteforce) | Investigation of an SSH brute force attack, with incident response and technical report |
-| [SOC Lab 02: Splunk BOTS](https://github.com/YOUR-USERNAME/soc-lab-02-splunk-bots) | Threat hunting with Splunk |
-| [SOC Lab 03: Windows Event Logs](https://github.com/YOUR-USERNAME/soc-lab-03-windows-event-logs) | Windows Event Log analysis for security investigation |
-| [Santander Cybersecurity Bootcamp](https://github.com/YOUR-USERNAME/santander-cybersecurity-bootcamp) | Python and security fundamentals challenges |
+| [SOC Lab 01: SSH Brute Force](https://github.com/R4B1DS/soc-lab-01-ssh-bruteforce) | Investigation of an SSH brute force attack, with incident response and technical report |
+| [SOC Lab 02: Splunk BOTS](https://github.com/R4B1DS/soc-lab-02-splunk-bots) | Threat hunting with Splunk |
+| [SOC Lab 03: Windows Event Logs](https://github.com/R4B1DS/soc-lab-03-windows-event-logs) | Windows Event Log analysis for security investigation |
+| [Santander Cybersecurity Bootcamp](https://github.com/R4B1DS/santander-cybersecurity-bootcamp) | Python and security fundamentals challenges |
 
 ## 🏅 Certifications
 
@@ -57,8 +57,8 @@ I'm currently looking for **entry-level roles in IT and cybersecurity** (SOC Ana
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=R4B1DS&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4B1DS&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
