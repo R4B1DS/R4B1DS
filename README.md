@@ -35,7 +35,7 @@ status  : Open to work (entry-level)
 
 ## 🛡️ About Me
 
-I'm finishing a Technology degree in **Cyber Defense** with a **9.87/10 GPA**, and building hands-on experience in **threat detection, log analysis, and incident response**.
+I'm finishing a Technology degree in **CyberSecurity** with a **9.87/10 GPA**, and building hands-on experience in **threat detection, log analysis, and incident response**.
 
 I also hold a Bachelor's degree in **Mechanical Engineering**, which gives me a structured, analytical approach to problem solving.
 
