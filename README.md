@@ -74,6 +74,17 @@ I'm currently looking for **entry-level roles in IT and cybersecurity** (SOC Ana
 ![Cisco](https://img.shields.io/badge/Cisco-Introduction_to_Splunk-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Security_and_Connectivity_Support-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Harvard](https://img.shields.io/badge/Harvard-CS50_Cybersecurity-A51C30?style=for-the-badge)
+[![Harvard](https://img.shields.io/badge/Harvard-CS50_Cybersecurity-A51C30?style=for-the-badge)](COLE-O-LINK-DO-CERTIFICADO)
+
+## 🏅 Certifications
+
+[![Cisco](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](LINK-DO-CREDLY)
+[![Cisco](https://img.shields.io/badge/Cisco-Security_and_Connectivity_Support-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](LINK-DO-CREDLY)
+[![Cisco](https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](LINK-DO-CREDLY)
+[![Cisco](https://img.shields.io/badge/Cisco-Introduction_to_Splunk-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](LINK-DO-CREDLY)
+
+🔗 [Verify all my credentials on Credly](https://www.credly.com/users/nicolas-ocampos/badges/credly)
 
 ## 🎓 Education
 
