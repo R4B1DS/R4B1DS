@@ -63,6 +63,8 @@ I'm currently looking for **entry-level roles in IT and cybersecurity** (SOC Ana
 
 ---
 
+---
+
 <p align="center">
   <i>"Security is a process, not a product."</i>
 </p>
