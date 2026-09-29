@@ -21,7 +21,7 @@
 
 ```bash
 
-nicolas.ocampos
+Nicolas Ocampos
 role    : Cybersecurity Student (Cyber Defense, expected Mar 2027)
 focus   : SOC | Blue Team | SIEM | Incident Response | GRC
 gpa     : 9.87/10
