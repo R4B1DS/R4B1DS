@@ -3,7 +3,7 @@
 <h3 align="center">Cybersecurity Student | SOC • Blue Team • SIEM • Incident Response</h3>
 
 <p align="center">
-  Porto Alegre, Brazil 🇧🇷 &nbsp;|&nbsp; Open to entry-level IT & Cybersecurity roles
+ Brazil 🇧🇷 &nbsp;|&nbsp; Open to entry-level IT & Cybersecurity roles
 </p>
 
 <p align="center">
