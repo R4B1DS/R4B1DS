@@ -99,17 +99,6 @@ I'm currently looking for **entry-level roles in IT and cybersecurity** (SOC Ana
   <i>"Security is a process, not a product."</i>
 </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r4b1ds&label=Profile%20views&color=0e75b6&style=flat-square" alt="r4b1ds" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4b1ds" alt="r4b1ds" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
 
