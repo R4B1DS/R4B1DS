@@ -99,10 +99,6 @@ I'm currently looking for **entry-level roles in IT and cybersecurity** (SOC Ana
   <i>"Security is a process, not a product."</i>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4b1ds&show_icons=true&locale=en&layout=compact" alt="r4b1ds" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r4b1ds&show_icons=true&theme=merko&hide_border=true&locale=en" alt="r4b1ds" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r4b1ds&theme=default" alt="r4b1ds" /></p>
 
 
