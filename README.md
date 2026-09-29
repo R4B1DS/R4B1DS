@@ -99,9 +99,6 @@ I'm currently looking for **entry-level roles in IT and cybersecurity** (SOC Ana
   <i>"Security is a process, not a product."</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4b1ds&show_icons=true&locale=en&layout=compact" alt="r4b1ds" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r4b1ds&show_icons=true&theme=merko&hide_border=true&locale=en" alt="r4b1ds" /></p>
