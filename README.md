@@ -47,6 +47,11 @@ I'm currently looking for **entry-level roles in IT and cybersecurity** (SOC Ana
 | [SOC Lab 03: Windows Event Logs](https://github.com/R4B1DS/soc-lab-03-windows-event-logs) | Windows Event Log analysis for security investigation |
 | [Santander Cybersecurity Bootcamp](https://github.com/R4B1DS/santander-cybersecurity-bootcamp) | Python and security fundamentals challenges |
 
+## 🎓 Education
+
+- **Technology degree in Cybersecurity**, Estácio (expected March 2027), GPA: 9.87/10
+- **Bachelor's degree in Mechanical Engineering**, ULBRA
+
 ## 🏅 Certifications
 
 ![Cisco](https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
