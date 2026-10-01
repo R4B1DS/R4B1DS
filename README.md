@@ -22,14 +22,16 @@
 ```bash
 
 Nicolas Ocampos
-role    : Cybersecurity Student (Cyber Defense, expected Mar 2027)
-focus   : SOC | Blue Team | SIEM | Incident Response | GRC
-gpa     : 9.87/10
-status  : Open to work (entry-level)
+ROLE    : Cybersecurity Student (Cyber Defense, expected Mar 2027)
+FOCUS   : SOC | Blue Team | SIEM | Incident Response | GRC
+GPA     : 9.87/10
+STATUS  : Open to work (entry-level)
 ```
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r4b1ds&theme=default" alt="r4b1ds" /></p>
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4B1DS&layout=compact)
 
 ## 🛡️ About Me
 
