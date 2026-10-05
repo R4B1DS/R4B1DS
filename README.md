@@ -31,7 +31,7 @@ STATUS  : Open to work (entry-level)
 
 ---
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4B1DS&layout=compact)
 
 ## 🛡️ About Me
 
