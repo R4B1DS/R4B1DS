@@ -19,13 +19,15 @@
   <img src="https://komarev.com/ghpvc/?username=R4B1DS&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-```bash
-
+```yaml
+$ whoami
 Nicolas Ocampos
-ROLE    : Cybersecurity Student (Cyber Defense, expected Mar 2027)
+─────────────────────────────────────────────
+ROLE    : Cybersecurity Student (Cyber Defense) expected Mar 2027
 FOCUS   : SOC | Blue Team | SIEM | Incident Response | GRC
 GPA     : 9.87/10
 STATUS  : Open to work (entry-level)
+LOCATION: Brazil
 ```
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r4b1ds&theme=default" alt="r4b1ds" /></p>
 
