@@ -116,4 +116,94 @@ I'm currently looking for **entry-level roles in IT and cybersecurity** (SOC Ana
   <i>"Security is a process, not a product."</i>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/text/h-github-stats-light.svg" />
+  <img src="assets/text/h-github-stats.svg" alt="GitHub Stats" />
+</picture>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/R4B1DS/R4B1DS/output/streak-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/R4B1DS/R4B1DS/output/streak.svg"
+  />
+  <img
+    alt="GitHub streak stats"
+    src="https://raw.githubusercontent.com/R4B1DS/R4B1DS/output/streak-dark.svg"
+    width="495"
+  />
+</picture>
+
+<br><br>
+
+<img
+  src="https://raw.githubusercontent.com/R4B1DS/R4B1DS/output/profile-riso.svg"
+  alt="3D contribution graph"
+  width="100%"
+/>
+
+</div>
+
+<br>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/text/h-contributions-light.svg" />
+  <img src="assets/text/h-contributions.svg" alt="Contributions" />
+</picture>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/R4B1DS/R4B1DS/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/R4B1DS/R4B1DS/output/github-snake.svg"
+  />
+  <img
+    alt="contribution snake"
+    src="https://raw.githubusercontent.com/R4B1DS/R4B1DS/output/github-snake-dark.svg"
+  />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/text/l-snake-light.svg" />
+  <img
+    src="assets/text/l-snake.svg"
+    alt="Contribution snake"
+  />
+</picture>
+
+</div>
+
+<br>
+
+<details>
+<summary><code>$ cat /etc/r4b1ds.conf</code></summary>
+
+<br>
+
+```ini
+[defaults]
+coffee              = true
+trailing_commas     = always,
+deploy_time         = 09:00 ; sharp
+works_on_my_machine = guaranteed
+
+[fallbacks]
+css_broken          = clear_cache_first
+prod_broken         = it_was_dns
+motivation_low      = keep_learning
+
+[do_not_touch]
+legacy_encoding     = ISO-8859-1 ; it bites
 
