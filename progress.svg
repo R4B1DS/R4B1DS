@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14">
+  <rect width="900" height="300" fill="#0D1117" rx="12"/>
+  <g transform="translate(32, 32)">
+    <text x="0" y="0" fill="#C9D1D9">Cybersecurity Foundations</text>
+    <text x="836" y="0" fill="#00D9FF" font-weight="700" text-anchor="end">100%</text>
+    <rect x="0" y="10" width="836" height="10" rx="5" fill="#161B22"/>
+    <rect x="0" y="10" width="0" height="10" rx="5" fill="#00D9FF">
+      <animate attributeName="width" from="0" to="836" dur="1.8s" begin="0.1s" fill="freeze"/>
+    </rect>
+
+    <text x="0" y="60" fill="#C9D1D9">SOC / Blue Team</text>
+    <text x="836" y="60" fill="#00D9FF" font-weight="700" text-anchor="end">80%</text>
+    <rect x="0" y="70" width="836" height="10" rx="5" fill="#161B22"/>
+    <rect x="0" y="70" width="0" height="10" rx="5" fill="#00D9FF">
+      <animate attributeName="width" from="0" to="668" dur="1.8s" begin="0.3s" fill="freeze"/>
+    </rect>
+
+    <text x="0" y="120" fill="#C9D1D9">SIEM &amp; Splunk</text>
+    <text x="836" y="120" fill="#00D9FF" font-weight="700" text-anchor="end">75%</text>
+    <rect x="0" y="130" width="836" height="10" rx="5" fill="#161B22"/>
+    <rect x="0" y="130" width="0" height="10" rx="5" fill="#00D9FF">
+      <animate attributeName="width" from="0" to="627" dur="1.8s" begin="0.5s" fill="freeze"/>
+    </rect>
+
+    <text x="0" y="180" fill="#C9D1D9">Security Investigation</text>
+    <text x="836" y="180" fill="#00D9FF" font-weight="700" text-anchor="end">65%</text>
+    <rect x="0" y="190" width="836" height="10" rx="5" fill="#161B22"/>
+    <rect x="0" y="190" width="0" height="10" rx="5" fill="#00D9FF">
+      <animate attributeName="width" from="0" to="543" dur="1.8s" begin="0.7s" fill="freeze"/>
+    </rect>
+
+    <text x="0" y="240" fill="#C9D1D9">Digital Forensics</text>
+    <text x="836" y="240" fill="#00D9FF" font-weight="700" text-anchor="end">45%</text>
+    <rect x="0" y="250" width="836" height="10" rx="5" fill="#161B22"/>
+    <rect x="0" y="250" width="0" height="10" rx="5" fill="#00D9FF">
+      <animate attributeName="width" from="0" to="376" dur="1.8s" begin="0.9s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>
